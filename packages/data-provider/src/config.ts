@@ -660,6 +660,9 @@ const sharedAnthropicModels = [
 ];
 
 export const bedrockModels = [
+  'amazon.nova-lite-v1:0',
+  'amazon.nova-micro-v1:0',
+  'amazon.nova-pro-v1:0',
   'anthropic.claude-3-5-sonnet-20241022-v2:0',
   'anthropic.claude-3-5-sonnet-20240620-v1:0',
   'anthropic.claude-3-5-haiku-20241022-v1:0',
